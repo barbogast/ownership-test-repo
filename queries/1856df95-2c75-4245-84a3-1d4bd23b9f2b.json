@@ -1,0 +1,19 @@
+{
+  "chartType": "barChart",
+  "databaseFileName": "database4.sqlite",
+  "enableTransform": false,
+  "id": "1856df95-2c75-4245-84a3-1d4bd23b9f2b",
+  "label": "test row",
+  "sqlStatement": "select \n(select sum(value) from aaa where country = 'belgium') as belgium,\n(select sum(value) from aaa where country = 'greece') as greece,\n(select sum(value) from aaa where country = 'us') as us,\n(select sum(value) from aaa where country = 'uk') as uk",
+  "transformCode": "return queryResult",
+  "transformConfig": {
+    "dataOrientation": "column",
+    "dataRowIndex": 0,
+    "isSingleDataset": false,
+    "labelColumn": "--no-label-column--",
+    "selectedColumns": [
+      8658107
+    ]
+  },
+  "transformType": "config"
+}
