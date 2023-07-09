@@ -1,15 +1,1 @@
-{
-  "chartType": "table",
-  "databaseFileName": "database2.sqlite",
-  "id": "categoryanalysis",
-  "label": "Category Analysis",
-  "sqlStatement": "",
-  "transformCode": "",
-  "transformConfig": {
-    "dataOrientation": "row",
-    "dataRowIndex": 0,
-    "labelColumn": "",
-    "selectedColumns": []
-  },
-  "transformType": "code"
-}
+{"chartType":"table","databaseFileName":"database2.sqlite","id":"categoryanalysis","label":"Category Analysis","transformConfig":{"dataOrientation":"row","dataRowIndex":0,"labelColumn":"","selectedColumns":[]},"transformType":"code"}

@@ -1,15 +1,1 @@
-{
-  "chartType": "pieChart",
-  "databaseFileName": "database.sqlite",
-  "id": "tableofownershipdistribution",
-  "label": "Debt ownership: Distribution",
-  "sqlStatement": "",
-  "transformCode": "",
-  "transformConfig": {
-    "dataOrientation": "row",
-    "dataRowIndex": 0,
-    "labelColumn": "",
-    "selectedColumns": []
-  },
-  "transformType": "config"
-}
+{"chartType":"pieChart","databaseFileName":"database.sqlite","id":"tableofownershipdistribution","label":"Debt ownership: Distribution","transformConfig":{"dataOrientation":"row","dataRowIndex":0,"labelColumn":"","selectedColumns":[]},"transformType":"config"}
