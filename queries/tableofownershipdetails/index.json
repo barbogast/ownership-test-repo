@@ -1,0 +1,15 @@
+{
+  "chartType": "table",
+  "databaseFileName": "database.sqlite",
+  "id": "tableofownershipdetails",
+  "label": "Debt ownership: Details",
+  "sqlStatement": "",
+  "transformCode": "",
+  "transformConfig": {
+    "dataOrientation": "row",
+    "dataRowIndex": 0,
+    "labelColumn": "",
+    "selectedColumns": []
+  },
+  "transformType": "code"
+}

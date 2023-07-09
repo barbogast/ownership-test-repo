@@ -1,0 +1,15 @@
+{
+  "chartType": "barChart",
+  "databaseFileName": "database.sqlite",
+  "id": "tableofownershiptime",
+  "label": "Debt ownership: Time",
+  "sqlStatement": "",
+  "transformCode": "",
+  "transformConfig": {
+    "dataOrientation": "row",
+    "dataRowIndex": 0,
+    "labelColumn": "",
+    "selectedColumns": []
+  },
+  "transformType": "config"
+}
