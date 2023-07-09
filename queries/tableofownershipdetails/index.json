@@ -2,7 +2,7 @@
   "chartType": "table",
   "databaseFileName": "database.sqlite",
   "id": "tableofownershipdetails",
-  "label": "Debt ownership: Details111",
+  "label": "Debt ownership: Details111222",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
