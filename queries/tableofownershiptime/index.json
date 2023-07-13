@@ -1,6 +1,9 @@
 {
   "chartType": "barChart",
   "databaseFileName": "database.sqlite",
+  "databaseSource": {
+    "type": "local"
+  },
   "id": "tableofownershiptime",
   "label": "Debt ownership: Time",
   "transformConfig": {

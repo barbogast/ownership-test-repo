@@ -1,6 +1,9 @@
 {
   "chartType": "table",
   "databaseFileName": "database2.sqlite",
+  "databaseSource": {
+    "type": "local"
+  },
   "id": "categoryanalysis",
   "label": "Category Analysis",
   "transformConfig": {

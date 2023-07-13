@@ -1,8 +1,11 @@
 {
   "chartType": "table",
   "databaseFileName": "database.sqlite",
+  "databaseSource": {
+    "type": "local"
+  },
   "id": "tableofownershipdetails",
-  "label": "Debt ownership: Details111222",
+  "label": "Debt ownership: Detailsllala",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
