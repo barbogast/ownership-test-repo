@@ -1,0 +1,165 @@
+[
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Analysis of ownership of government in Europe",
+        "type": "text"
+      }
+    ],
+    "id": "dd6d9638-6ea7-4a86-9deb-7216eb8f7d16",
+    "props": {
+      "backgroundColor": "default",
+      "level": "1",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "This is a fancy analysis that shows how you can build reports out of data in your browser",
+        "type": "text"
+      }
+    ],
+    "id": "e90c84fa-9116-4058-9e7d-19b66a7ba0d1",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "f044061e-cc74-4e3c-adec-c0d20dd9b199",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Here is a fancy chart",
+        "type": "text"
+      }
+    ],
+    "id": "36673422-9bce-42a0-89cf-7132c4ad5bff",
+    "props": {
+      "backgroundColor": "default",
+      "level": "2",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "This is an explanatory text for this chart. It explains ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "many",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " things. Also, you can edit the chart using the \"Edit\" button on the right (if are viewing this in the editor).",
+        "type": "text"
+      }
+    ],
+    "id": "2f1dceb0-e69c-4e12-a548-96d95c4eaa6e",
+    "props": {
+      "backgroundColor": "transparent",
+      "queryId": "tableofownershipdistribution",
+      "textAlignment": "left",
+      "textColor": "black"
+    },
+    "type": "dataDisplay"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "More charts",
+        "type": "text"
+      }
+    ],
+    "id": "7b11ba9b-ccbe-49b8-93dc-4c2ba2df7e40",
+    "props": {
+      "backgroundColor": "default",
+      "level": "3",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Again, with funny text.",
+        "type": "text"
+      }
+    ],
+    "id": "489e9317-cac5-4fd1-b182-2a152750e479",
+    "props": {
+      "backgroundColor": "transparent",
+      "queryId": "tableofownershiptime",
+      "textAlignment": "left",
+      "textColor": "black"
+    },
+    "type": "dataDisplay"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "5de73f4c-59b4-4b65-b3ac-8bf7dbdceef7",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "9185a159-b117-417c-b2e2-5c0ea1130810",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "db0b054e-f874-4ce4-a881-2fa4394f28d5",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  }
+]
