@@ -5,7 +5,7 @@
     "type": "local"
   },
   "id": "tableofownershipdetails",
-  "label": "Debt ownership: Detailsllala",
+  "label": "Debt ownership: Details",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
