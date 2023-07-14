@@ -5,7 +5,7 @@
     "type": "local"
   },
   "id": "categoryanalysis",
-  "label": "Category Analysisx1",
+  "label": "Category Analysisx1d",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
