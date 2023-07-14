@@ -4,8 +4,6 @@
   "enableTransform": false,
   "id": "1856df95-2c75-4245-84a3-1d4bd23b9f2b",
   "label": "test row",
-  "sqlStatement": "",
-  "transformCode": "",
   "transformConfig": {
     "dataOrientation": "column",
     "dataRowIndex": 0,
