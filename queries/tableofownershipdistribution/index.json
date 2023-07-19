@@ -2,7 +2,8 @@
   "chartType": "pieChart",
   "databaseFileName": "database.sqlite",
   "databaseSource": {
-    "type": "local"
+    "type": "local",
+    "url": "db1"
   },
   "id": "tableofownershipdistribution",
   "label": "Debt ownership: Distribution",

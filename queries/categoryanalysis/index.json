@@ -2,10 +2,11 @@
   "chartType": "table",
   "databaseFileName": "database2.sqlite",
   "databaseSource": {
-    "type": "local"
+    "type": "local",
+    "url": "db1"
   },
   "id": "categoryanalysis",
-  "label": "Category Analysisx1d",
+  "label": "Category Analysis",
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,

@@ -2,7 +2,8 @@
   "chartType": "table",
   "databaseFileName": "database.sqlite",
   "databaseSource": {
-    "type": "local"
+    "type": "local",
+    "url": "db1"
   },
   "id": "tableofownershipdetails",
   "label": "Debt ownership: Details",

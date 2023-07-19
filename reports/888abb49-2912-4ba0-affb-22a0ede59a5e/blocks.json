@@ -1,0 +1,94 @@
+[
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Test heading",
+        "type": "text"
+      }
+    ],
+    "id": "e82e164c-7090-473d-8e5a-f09ec5c48484",
+    "props": {
+      "backgroundColor": "default",
+      "level": "1",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "asdfasdf",
+        "type": "text"
+      }
+    ],
+    "id": "4b3fafaf-9af9-48e2-a591-00b3c01d8010",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "d120c430-b503-40f1-8ff8-d9d685f83e4c",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "b6abbf34-cfde-451f-be3e-064e4683e49d",
+    "props": {
+      "backgroundColor": "transparent",
+      "queryId": "tableofownershiptime",
+      "textAlignment": "left",
+      "textColor": "black"
+    },
+    "type": "dataDisplay"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "b8eb9833-e32f-4dff-97a7-a0624a2efb3a",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "a7ee7a78-c018-4895-a43d-5caf9307f35f",
+    "props": {
+      "backgroundColor": "transparent",
+      "queryId": "tableofownershipdistribution",
+      "textAlignment": "left",
+      "textColor": "black"
+    },
+    "type": "dataDisplay"
+  },
+  {
+    "children": [],
+    "content": [],
+    "id": "66afbc72-9786-4a04-8e2e-d50a370037f1",
+    "props": {
+      "backgroundColor": "default",
+      "textAlignment": "left",
+      "textColor": "default"
+    },
+    "type": "paragraph"
+  }
+]
