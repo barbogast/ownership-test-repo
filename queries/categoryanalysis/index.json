@@ -3,7 +3,7 @@
   "databaseFileName": "database2.sqlite",
   "databaseSource": {
     "type": "local",
-    "url": "db1"
+    "url": "db2"
   },
   "id": "categoryanalysis",
   "label": "Category Analysis",

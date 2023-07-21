@@ -1,1 +1,1 @@
-select central_bank, omfis, other_financial_institutions, other_residents from aaa
+select year, central_bank, omfis, other_financial_institutions, other_residents from aaa

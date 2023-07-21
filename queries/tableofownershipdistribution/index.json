@@ -1,5 +1,5 @@
 {
-  "chartType": "pieChart",
+  "chartType": "stackedPieChart",
   "databaseFileName": "database.sqlite",
   "databaseSource": {
     "type": "local",
@@ -10,8 +10,11 @@
   "transformConfig": {
     "dataOrientation": "row",
     "dataRowIndex": 0,
-    "labelColumn": "",
-    "selectedColumns": []
+    "labelColumn": "year",
+    "selectedColumns": [
+      "central_bank",
+      "omfis"
+    ]
   },
   "transformType": "config"
 }
