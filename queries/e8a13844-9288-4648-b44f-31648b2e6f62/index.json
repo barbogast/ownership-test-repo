@@ -1,0 +1,19 @@
+{
+  "chartType": "lineChart",
+  "databaseFileName": "",
+  "databaseSource": {
+    "type": "local",
+    "url": "db1"
+  },
+  "id": "e8a13844-9288-4648-b44f-31648b2e6f62",
+  "label": "New query1",
+  "transformConfig": {
+    "dataOrientation": "row",
+    "dataRowIndex": 0,
+    "labelColumn": "",
+    "selectedColumns": [
+      "total"
+    ]
+  },
+  "transformType": "config"
+}
