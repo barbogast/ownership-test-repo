@@ -1,0 +1,47 @@
+{
+  "columns": [
+    {
+      "csvName": "Year",
+      "dbName": "year",
+      "type": "integer"
+    },
+    {
+      "csvName": "TOTAL",
+      "dbName": "total",
+      "type": "integer"
+    },
+    {
+      "csvName": "Residents",
+      "dbName": "residents",
+      "type": "integer"
+    },
+    {
+      "csvName": "Central bank",
+      "dbName": "central_bank",
+      "type": "integer"
+    },
+    {
+      "csvName": "OMFIs",
+      "dbName": "omfis",
+      "type": "integer"
+    },
+    {
+      "csvName": "Other financial institutions",
+      "dbName": "other_financial_institutions",
+      "type": "integer"
+    },
+    {
+      "csvName": "Other residents",
+      "dbName": "other_residents",
+      "type": "integer"
+    },
+    {
+      "csvName": "Non-residents",
+      "dbName": "non_residents",
+      "type": "integer"
+    }
+  ],
+  "id": "db3",
+  "name": "db3",
+  "tableName": "t1"
+}
